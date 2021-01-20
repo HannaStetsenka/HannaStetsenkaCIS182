@@ -16,7 +16,7 @@ main {
     
 }
 /*no rules for "hide" class*/
-table{
+main table{
     border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
